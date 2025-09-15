@@ -3,3 +3,4 @@ fastai==2.8.4
 pillow>=9.0.0
 packaging
 ipywidgets
+torch==2.8.0+cu126
